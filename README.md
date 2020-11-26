@@ -1,2 +1,3 @@
 Alice(Project Maintainer)
-commit 3
+Bob(Contributor)
+pull request
