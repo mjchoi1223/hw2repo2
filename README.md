@@ -1,2 +1,2 @@
-Alice(Project Maintainer)
-commit 2
+Bob(Contributor)
+commit 4
